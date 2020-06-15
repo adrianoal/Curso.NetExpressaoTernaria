@@ -1,0 +1,11 @@
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\bin\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.exe
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\bin\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.deps.json
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\bin\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\bin\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\bin\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.dll
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\bin\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.pdb
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\obj\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\obj\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\obj\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\obj\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.dll
+C:\Users\aalima5\Desktop\Code C#\ExpressaoCondicionalTernariaAula88\ExpressaoCondicionalTernariaAula88\obj\Debug\netcoreapp3.1\ExpressaoCondicionalTernariaAula88.pdb
